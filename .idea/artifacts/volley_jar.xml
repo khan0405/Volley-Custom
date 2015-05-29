@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="volley:jar">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/volley_jar</output-path>
+    <root id="root">
+      <element id="archive" name="volley.jar">
+        <element id="module-output" name="volley" />
+      </element>
+    </root>
+  </artifact>
+</component>
